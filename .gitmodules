@@ -1,0 +1,3 @@
+[submodule "python-mode"]
+    path = adversarial
+    url = https://github.com/goodfeli/adversarial
